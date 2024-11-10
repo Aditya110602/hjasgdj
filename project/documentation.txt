@@ -1,0 +1,100 @@
+Portfolio Website Documentation
+
+1. Project Structure
+-------------------
+The project is organized into components, each handling a specific section of the portfolio:
+- Navbar: Navigation menu with smooth scrolling
+- Hero: Landing section with introduction
+- About: Personal information and background
+- Skills: Technical skills with animated progress bars
+- Services: Services offered with icons
+- Projects: Showcase of recent work
+- Contact: Contact form and information
+
+2. Components
+------------
+a) Navbar
+- Responsive navigation with mobile menu
+- Smooth scrolling to sections
+- Fixed position with blur effect
+
+b) Hero
+- Full-screen landing section
+- Social media links
+- Call-to-action button
+
+c) About
+- Two-column layout with image
+- Personal information grid
+- Download CV button
+
+d) Skills
+- Animated progress bars
+- Grid layout for skills
+- Percentage indicators
+
+e) Services
+- Card layout with icons
+- Hover effects
+- Responsive grid
+
+f) Projects
+- Card layout with images
+- Technology tags
+- GitHub and live demo links
+
+g) Contact
+- Contact form with validation
+- Contact information with icons
+- Two-column layout
+
+3. Styling
+----------
+- Tailwind CSS for styling
+- Custom animations for skill bars
+- Responsive design for all screen sizes
+- Custom scrollbar styling
+- Smooth scroll behavior
+
+4. Features
+-----------
+- Fully responsive design
+- Animated skill bars
+- Interactive navigation
+- Form validation
+- Smooth scrolling
+- Hover effects
+- Modern UI/UX
+
+5. Best Practices
+----------------
+- Component-based architecture
+- TypeScript for type safety
+- Responsive design patterns
+- Semantic HTML
+- Accessible navigation
+- Performance optimized
+- Clean code structure
+
+6. Usage
+--------
+- Clone the repository
+- Install dependencies: npm install
+- Start development server: npm run dev
+- Build for production: npm run build
+
+7. Customization
+---------------
+- Update personal information in components
+- Modify color scheme in Tailwind config
+- Add/remove sections as needed
+- Customize animations in index.css
+- Update project images and descriptions
+
+8. Performance
+-------------
+- Optimized images
+- Lazy loading
+- Minimal dependencies
+- Efficient CSS with Tailwind
+- Smooth animations
